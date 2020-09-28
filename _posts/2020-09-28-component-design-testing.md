@@ -271,7 +271,7 @@ look like but also which underlying **patterns** lead to this look.
 
 This might surface things like:
 
-"We want all intractable elements to have a `border-radius` of `5px`"  
+"We want all interactable elements to have a `border-radius` of `5px`"  
 "The main solid interaction element should use our brand-color as background" 
 
 Which can be translated to:
